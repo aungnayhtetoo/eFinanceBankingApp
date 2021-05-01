@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 01 16:34:17 EDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0179-29a3-967e-00000e9f74e8 
+on database directory C:\Users\Aung Nay\Dropbox\School\Coding Practice\Java\AungNayHtetOo JAVA FX\IST412 eFinance Project\IST412 eFinance Project\efinancedb with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
+Loaded from file:/C:/Users/Aung%20Nay/Dropbox/School/Coding%20Practice/Java/AungNayHtetOo%20JAVA%20FX/IST412%20eFinance%20Project/IST412%20eFinance%20Project/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\Aung Nay\Dropbox\School\Coding Practice\Java\AungNayHtetOo JAVA FX\IST412 eFinance Project\IST412 eFinance Project
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
